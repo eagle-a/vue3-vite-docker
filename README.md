@@ -1,7 +1,7 @@
 # vue3-vite-docker
 开发部署一条龙
 
-#部分需要修改的地方
+# 部分需要修改的地方
 
 nginx的serve_name
 
